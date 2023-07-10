@@ -19,6 +19,24 @@ During my university years as a computer science student, I began delving into t
 
 So far, my journey has encompassed many explorations without specializing in any particular area. Although, I am now eagerly seeking a niche where I can channel my passion and expertise. However, I am still a novice in many aspects and consider myself a perpetual learner.
 
+## Profiles
+
+Twitter: https://twitter.com/memn0ps
+
+Mastodon: https://infosec.exchange/@memn0ps
+
+GitHub: https://github.com/memn0ps
+
+HackTheBox: https://app.hackthebox.com/profile/25804
+
+HackerOne: https://hackerone.com/memn0ps
+
+Bugcrowd: https://bugcrowd.com/memN0ps
+
+Synack: [@memN0ps](https://www.synack.com/)
+
+UnKnoWnCheaTs: https://www.unknowncheats.me/forum/members/4945492.html
+
 ## Experience
 
 Senior Security Consultant at `<redacted>`  
@@ -69,7 +87,30 @@ November 2018 - No Expiration Date
 [Bachelor of Computer and Information Sciences, Networks and Cybersecurity and Software Development](https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences)  
 July 2015 - July 2018
 
+## Common Vulnerabilities and Exposure (CVEs)
+
+[CVE-2020-11648 Blind SQL Injection](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11648)  
+April 2020
+
+[CVE-2019-19326 Web Cache Poisoning](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19326)  
+November 2019
+
+[CVE-2019-14352 CSV Injection (Formula Injection)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14352)  
+July 2019
+
+[CVE-2019-12997 Command Injection](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12997)  
+June 2019
+
+[CVE-2019-12771 Command Injection](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12771)  
+June 2019
+
+[CVE-2019-11519 XML External Entity (XXE) Processing](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11519)  
+April 2019
+
 ## Achievements
+
+[Awarded Member of the Month on UnKnoWnCheaTs for contributing a Windows UEFI Bootkit in Rust (Codename: RedLotus)](https://www.unknowncheats.me/forum/member-of-the-month/590207-month-july-2023-a.html)  
+July 2023
 
 [Mentioned in PortSwigger's blog by James Kettle for an exploit write up on HTTP Request Smuggling and getting a bounty from Synack Red Team](https://portswigger.net/research/http-desync-attacks-what-happened-next)  
 September 2019
