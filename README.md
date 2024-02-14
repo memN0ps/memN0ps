@@ -17,6 +17,8 @@ I've explored various areas without specializing in one, but now I'm seeking a n
 
 More information: https://memn0ps.github.io/about/
 
+**Note: All of my projects serve as proof-of-concept (PoCs) and are not intended for production use. Furthermore, all of them have been archived. Any future tools and projects will remain private for personal use only.**
+
 ## Disclaimer: For Educational Use Only
 
 The content in my repositories is solely for educational and informational purposes, intended to foster security awareness. **Any illegal or malicious use is strictly prohibited.** By accessing this content, you agree to use it responsibly, and I’m not liable for any misuse or damage. Use at your own risk and ensure compliance with all applicable laws and permissions.
