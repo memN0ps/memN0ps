@@ -1,4 +1,4 @@
-Research & Development: Fun and Learning​​​​​​​​​​​​​​​​
+Research & Development: Practical proof-of-concept research built for security awareness, detection engineering, and the love of Rust, Windows internals, and reverse engineering.
 
 - [Venom (2021-2022)](https://github.com/memN0ps/venom-rs) - Shellcode Reflective DLL Injection (sRDI): converts a DLL into position-independent shellcode using a prepended reflective loader that can be injected and executed using any shellcode injection technique
 
