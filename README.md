@@ -1,8 +1,4 @@
-Over the last 5-8 years I've been quietly building security research tools as memN0ps.
-
-The cat and mouse game between game hackers and anti-cheat engineers is the same game malware authors and detection engineers play. The knowledge has existed in underground forums for years but has been surfacing more publicly in recent years.
-
-As a hobbyist and security researcher, I've spent the last 5-8 years releasing practical proof of concept research on GitHub to help close that gap and spread awareness. These are among the first public PoCs written entirely in Rust:
+Research & Development: Fun and Learning​​​​​​​​​​​​​​​​
 
 - [Venom (2021-2022)](https://github.com/memN0ps/venom-rs) - Shellcode Reflective DLL Injection (sRDI): converts a DLL into position-independent shellcode using a prepended reflective loader that can be injected and executed using any shellcode injection technique
 
