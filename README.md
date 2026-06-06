@@ -1,3 +1,5 @@
+**GitHub is my sole online presence. I do not maintain any social media accounts; any other profiles claiming to be me are impersonations.**
+
 Research & Development: Practical proof-of-concept research built for security awareness, detection engineering, and the love of Rust, Windows internals, and reverse engineering.
 
 - [Venom (2021-2022)](https://github.com/memN0ps/venom-rs) - Shellcode Reflective DLL Injection (sRDI): converts a DLL into position-independent shellcode using a prepended reflective loader that can be injected and executed using any shellcode injection technique
