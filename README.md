@@ -20,6 +20,9 @@ Research & Development: Practical proof-of-concept research built for security a
 
 - Private C2 Framework (2022-2026) - A fully custom Command and Control framework written entirely in Rust. The public research above represents the building blocks.
 
+- Private RISC-V VM Obfuscation Framework (2026) - A general-purpose RISC-V bytecode interpreter written in Rust for VM-based code obfuscation and reverse engineering research, with per-build encryption, opcode shuffling, steganography, Mixed Boolean Arithmetic (MBA), opaque
+  predicates, and Control Flow Flattening (CFF).
+
 The language doesn't matter. The primitives are the same. Rust just happens to be the one I enjoy.
 
 Research and writeups: [secret.club](https://secret.club/author/memn0ps) | [memn0ps.github.io](https://memn0ps.github.io)
