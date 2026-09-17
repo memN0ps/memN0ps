@@ -12,9 +12,7 @@ Research & Development: Practical proof-of-concept research built for security a
 
 - [Illusion (2024-2025)](https://github.com/memN0ps/illusion-rs) - Windows UEFI Type-1 Hypervisor: boots before the OS using Intel VT-x and EPT, intercepts kernel initialization at boot to install execute-only shadow pages, replays displaced instructions via Monitor Trap Flag single-stepping, and exposes a user-mode hypercall channel to toggle kernel hooks at runtime, all without touching guest memory or triggering PatchGuard
 
-- [Armory (2026)](https://github.com/memN0ps/armory-rs) - Rust Beacon Object Files (BOFs): in-process situational awareness, remote
-  operations, process injection, Kerberos tradecraft, and Bring Your Own Vulnerable Driver (BYOVD) kernel research, including callback
-  removal, LSASS PPL changes, ETW-TI control, DSE validation, token manipulation, and handleless VTL0 credential access.
+- [Armory (2026)](https://github.com/memN0ps/armory-rs) - A collection of Rust Beacon Object Files (BOFs) for Cobalt Strike. It covers situational awareness, local and remote operations, Active Directory and Microsoft Entra ID (Azure AD), Kerberos and LDAP tradecraft, process injection, and post-exploitation. It also includes a Bring Your Own Vulnerable Driver (BYOVD) BOF for removing kernel callbacks, disabling ETW Threat Intelligence, bypassing PPL, enabling WDigest credential caching, swapping process tokens, running a DSE disable-and-restore cycle, and dumping credentials that remain in VTL0 LSASS without `OpenProcess`, even when Credential Guard is enabled. Secrets isolated in VTL1 remain protected.
   
 - [DoublePulsar (2026)](https://github.com/memN0ps/doublepulsar-rs) - Cobalt Strike UDRL: a ~65KB position-independent reflective loader with module stomping, synthetic call stack spoofing, sleep obfuscation, memory encryption, return address spoofing, IAT hooking, and heap isolation
 
